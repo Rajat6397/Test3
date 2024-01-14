@@ -1,0 +1,139 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.navbar1{
+    background-image: linear-gradient(to right, black, red);
+    padding:5px;
+    width:100vw;
+    color:white;
+    text-align:center;
+}
+.navbar1 .h3{
+    text-align: center;
+}
+.second .navbar2{
+    background-color: black;
+    color:white;
+    display:flex;
+    height:45px;
+    width:100vw;
+    list-style-type: none;
+    justify-content:center;
+    padding-top: 14px;
+}
+input{
+    height:25px;
+    width:470px;
+    border:0px;
+}
+img .six{
+    width:50px;
+    height:0px;
+    margin-left:0px;
+}
+
+.seven{
+    background-image: url(background-shoes3.jpeg);
+    width:100vw;
+    background-size:cover;
+    padding:125px;
+    color:white;
+}
+
+li{
+    margin: 5px;
+}
+.nine{
+    background-color:#D3D3D3 ;
+    height:280px;
+    width:1515px;
+    padding:20px;
+}
+.tenth{
+    background-color: grey;
+    width:1200px;
+    margin:0 auto;
+    padding:60px;
+    
+}
+.tram{
+    background-image: url(air7.jpeg);
+    height:100px;
+    width:100px;
+    margin-right:6px;
+    color:white;
+}
+.cram{
+    height:100px;
+    width:100px;
+    margin-right:6px;
+    background-color: white;
+}
+.pram{
+    height:100px;
+    width:100px;
+    background-color: white;
+}
+.four{
+    display: flex;
+    margin-right:7px;
+}
+.third{
+    width:100px;
+    height:120px;
+    border:2px solid #D3D3D3;
+    colour:white;
+}
+.five{
+    width:100px;
+    height:120px;
+    border:2px solid #D3D3D3;
+}
+.eight{
+    width:100px;
+    height:120px;
+    border:2px solid #D3D3D3;
+}
+.fiftheen{
+    background-image: linear-gradient(to right, grey, black);
+    height:820px;
+    width:100vw;
+    padding:70px;
+    display:inline block;
+}
+.fourteen{
+    background-image: url(shoes2.jpeg);
+    background-image: linear-gradient(to right, black, red);
+    height:700px;
+    width:1200px;
+    color:white;
+    padding-top:60px;
+    padding-left:20px;
+    
+}
+
+.c1 .h1{
+    text-align:left;
+}
+
+
+d1{
+    display:inline;
+}
+.sink{
+    background-color: rgba(0, 0, 0, 0.26);
+    height:135px;
+    width:670px;
+    padding:5px;
+}
+.third{
+    display:flex;
+    height:150px;
+    width:550px;
+    background-color:grey;
+}
+.items{
+    height:100px;
+    width:100px;
+}
